@@ -1,0 +1,188 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e9f33c6c-592f-48c9-99c7-c8723430036f")
+	(paper "A4")
+	(title_block
+		(title "ThunderMini")
+		(date "2022-12-19")
+		(rev "V1.0")
+		(company "Yaseen M. Twati")
+	)
+	(lib_symbols)
+	(sheet
+		(at 158.115 108.585)
+		(size 54.991 29.337)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0175aa2f-f7f1-4d52-89f8-4c414bd75491")
+		(property "Sheetname" "Misc"
+			(at 158.115 107.8734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Misc.kicad_sch"
+			(at 158.115 138.5066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThunderMini"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 84.836 59.944)
+		(size 54.991 29.337)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d73dc1c-4981-42e5-a1d2-44c5c0235e3b")
+		(property "Sheetname" "TMC6200"
+			(at 84.836 59.2324 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TMC6200.kicad_sch"
+			(at 84.836 89.8656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThunderMini"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 84.582 108.839)
+		(size 54.991 29.464)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b2fdcb1-f8b8-41e3-b437-84c33282e4df")
+		(property "Sheetname" "Connectors"
+			(at 84.582 108.1274 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 84.582 138.8876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThunderMini"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 158.496 59.69)
+		(size 54.991 29.464)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d696d082-8f5d-402c-9a92-e6b30a74b4a4")
+		(property "Sheetname" "Output Stage"
+			(at 158.496 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Output_Stage_sch.kicad_sch"
+			(at 158.496 89.7386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ThunderMini"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

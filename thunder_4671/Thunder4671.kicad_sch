@@ -1,0 +1,230 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e9f33c6c-592f-48c9-99c7-c8723430036f")
+	(paper "A4")
+	(title_block
+		(title "Thunder4671")
+		(date "2023-02-07")
+		(rev "V1.0")
+		(company "Yaseen M. Twati")
+	)
+	(lib_symbols)
+	(sheet
+		(at 195.58 100.33)
+		(size 54.61 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0175aa2f-f7f1-4d52-89f8-4c414bd75491")
+		(property "Sheetname" "Misc"
+			(at 195.58 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Misc.kicad_sch"
+			(at 195.58 130.2516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thunder4671"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 100.33)
+		(size 54.61 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b2fdcb1-f8b8-41e3-b437-84c33282e4df")
+		(property "Sheetname" "Connectors"
+			(at 121.92 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 121.92 130.3786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thunder4671"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 195.58 58.42)
+		(size 54.61 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "82cfd744-063a-4a80-be1a-991185ee2516")
+		(property "Sheetname" "TMC4671"
+			(at 195.58 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "TMC4671.kicad_sch"
+			(at 195.58 88.4686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thunder4671"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 45.72 100.33)
+		(size 55.88 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a360bef5-bfed-42b8-8abb-1aa3661db4cb")
+		(property "Sheetname" "Hall & Encoder"
+			(at 45.72 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Hall_Encoder.kicad_sch"
+			(at 45.72 130.3786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thunder4671"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 58.42)
+		(size 54.61 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d1f244ab-366a-4b6d-949d-1bde31cfd03f")
+		(property "Sheetname" "Power"
+			(at 123.19 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 123.19 88.4686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Thunder4671"
+				(path "/e9f33c6c-592f-48c9-99c7-c8723430036f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
